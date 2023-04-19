@@ -1,0 +1,37 @@
+.hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .hero-content {
+    text-align: center;
+    
+  }
+  
+  .hero h1 {
+    font-size: 6rem;
+    color: #013c55;
+    
+    margin-bottom: 1rem;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .hero button {
+    font-size: 1.5rem;
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  #hero_text{
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  
